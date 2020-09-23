@@ -15,9 +15,9 @@ disp(xgauss);
 
 
 % %% Print step by step solution (Gauss elimination) for a simple system to illustrate
-% disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
-% [Amodsmall,ord]=Gauss_elim(A,b,true);
-% disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
+%disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
+%[Amodsmall,ord]=Gauss_elim(A,b,true);
+%disp('%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%');
 
 
 %% Compare against built in MATLAB solution
